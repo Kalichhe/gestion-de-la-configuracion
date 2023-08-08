@@ -1,19 +1,27 @@
 One-Step Deployment
 Despliegue en un solo paso (One-Step Deployment): Este enfoque implica la distribución y la activación de una nueva versión de la aplicación en un solo proceso automatizado. Es rápido y eficiente, 
 pero también puede ser arriesgado si no se realizan pruebas exhaustivas antes del despliegue.
-Despliegue gradual (Rolling Deployment): En este método, una nueva versión se implementa en un conjunto limitado de servidores o instancias primero, y luego se extiende gradualmente al resto. 
-Esto permite una mayor tolerancia a fallos, ya que se puede detectar y corregir problemas antes de que afecten a todo el sistema.
+
+Despliegue gradual (Rolling Deployment): En este método, una nueva versión se implementa en un conjunto limitado de servidores o instancias primero, y luego se extiende 
+gradualmente al resto. Esto permite una mayor tolerancia a fallos, ya que se puede detectar y corregir problemas antes de que afecten a todo el sistema.
+
 Despliegue azul-verde (Blue-Green Deployment): En este enfoque, se mantienen dos entornos completos y separados: uno "azul" con la versión actual en producción y otro "verde" con la nueva versión. 
 El tráfico se redirige entre los dos entornos, lo que facilita la conmutación rápida entre versiones en caso de problemas.
+
 Despliegue canario (Canary Deployment): Similar al despliegue gradual, en este método una pequeña parte del tráfico se dirige a la nueva versión (el "canario") mientras el resto del tráfico 
 sigue utilizando la versión anterior. Esto permite evaluar el rendimiento y la estabilidad antes de una implementación completa.
+
 Despliegue por lotes (Batch Deployment): Las implementaciones por lotes implican la liberación de una nueva versión en grupos o lotes predefinidos de usuarios o sistemas. Esto permite una 
 mayor gestión de riesgos y facilita la identificación y corrección de problemas en grupos más pequeños antes de avanzar.
+
 Despliegue manual: En este enfoque, los cambios se implementan manualmente por un equipo de operaciones. Aunque es más lento y propenso a errores, se utiliza en situaciones donde el riesgo debe 
 minimizarse al máximo.
+
 Despliegue automatizado: En este caso, se utilizan herramientas y procesos automatizados para llevar a cabo el despliegue. Puede ser parte de una estrategia más amplia de 
 integración continua y entrega continua (CI/CD).
+
 Despliegue en la nube: Con la creciente adopción de la nube, el despliegue en la nube implica lanzar aplicaciones o servicios directamente en entornos de nube, lo que permite escalabilidad, 
 flexibilidad y una gestión más eficiente de recursos.
+
 La elección del tipo de despliegue depende de diversos factores, como la criticidad de la aplicación, la necesidad de minimizar el tiempo de inactividad, la tolerancia a fallos, 
 los recursos disponibles y la complejidad del sistema.
