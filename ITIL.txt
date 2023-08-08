@@ -1,0 +1,34 @@
+ITIL
+
+ITIL (Information Technology Infrastructure Library) es un conjunto de prácticas y marcos de trabajo que se utilizan para gestionar los servicios de tecnología de 
+la información (TI) de manera efectiva. Uno de los procesos clave dentro de ITIL es la Gestión de la Configuración y Activos del Servicio (Configuration and Asset Management), 
+que se encarga de controlar, gestionar y mantener información precisa sobre la infraestructura de TI y los activos relacionados.
+
+ITIL resuelve varios problemas en la gestión de la configuración, tales como:
+
+Falta de visibilidad: Muchas organizaciones tienen una infraestructura de TI compleja y diversa, lo que puede llevar a la falta de visibilidad sobre los componentes y activos en uso. 
+ITIL ayuda a crear una base de datos de gestión de la configuración (CMDB) que almacena información detallada sobre cada componente y su relación con otros elementos.
+
+Control y seguimiento: Mantener un control adecuado de la configuración es esencial para garantizar la disponibilidad, seguridad y rendimiento de los servicios de TI. 
+ITIL establece procesos para el seguimiento de cambios, lo que ayuda a reducir el riesgo de errores y problemas no previstos.
+
+Gestión eficiente de activos: La gestión de activos es esencial para garantizar que los recursos de TI se utilicen de manera óptima y para evitar gastos innecesarios en hardware y 
+software no utilizados. ITIL ayuda a rastrear y administrar estos activos a lo largo de su ciclo de vida.
+
+Gestión de incidentes y problemas: Una gestión adecuada de la configuración proporciona información valiosa para la resolución eficiente de incidentes y problemas. ITIL permite 
+identificar rápidamente las relaciones entre componentes para comprender cómo un incidente puede estar afectando a otros.
+
+Diferencias entre versiones de ITIL (por ejemplo, ITIL v3 y ITIL 4):
+
+Enfoque: ITIL v3 se centraba en procesos y operaciones, mientras que ITIL 4 adopta un enfoque más holístico que abarca la entrega de valor a través de la gestión de servicios.
+
+Ciclo de vida vs. Flujo de valor: ITIL v3 se estructuraba en torno a un ciclo de vida de servicios, mientras que ITIL 4 introduce el concepto de "flujo de valor", que se enfoca en la 
+creación, entrega y mejora continua de valor a través de los servicios de TI.
+
+Nuevos elementos: ITIL 4 incluye conceptos como "Pensamiento Lean", "Cultura Ágil", "Gobernanza", "Gestión de Riesgos" y "Cadena de Valor de Servicio", que amplían el alcance y las mejores 
+prácticas más allá de la gestión tradicional de servicios.
+
+Flexibilidad: ITIL 4 se adapta mejor a las prácticas ágiles y de DevOps, lo que refleja la evolución en la forma en que se desarrollan y gestionan los servicios de TI en la actualidad.
+
+En resumen, ITIL aborda los problemas en la gestión de la configuración al proporcionar procesos y directrices estructurados para asegurar que la infraestructura de TI se gestione de manera 
+efectiva, permitiendo una mayor visibilidad, control y eficiencia en el uso de los activos y recursos de TI.
