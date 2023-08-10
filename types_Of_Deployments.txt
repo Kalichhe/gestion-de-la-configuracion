@@ -1,0 +1,24 @@
+Estos son algunos de los tipos de despliegues que encontramos
+
+
+Despliegue manual: normalmente lo hace un equipo de profesionales de IT. Se trata de una metodología que puede llevar mucho tiempo y ser propensa a equivocaciones humanas.
+
+Despliegue mediante scripts: estos últimos se utilizan para automatizar el proceso, lo cual ahorra tiempo y reduce errores. Pero necesitarás un agente con conocimientos 
+técnicos para configurarlo y mantenerlo. Esta es la vía elegida para hacer el despliegue de software en InvGate Insight.
+
+Despliegue continuo: se trata de un método de despliegue automatizado donde el software se entrega continuamente a producción, a menudo con la ayuda de 
+herramientas DevOps. Si bien los tiempos se agilizan y se logra una mayor calidad del software, requiere una inversión significativa en automatización e infraestructura.
+
+Despliegue basado en contenedores: es una metodología popular que consiste en empaquetar las aplicaciones en contenedores que permiten desplegarse fácilmente en 
+distintos entornos. Esta vía ayuda a optimizar la portabilidad y la escalabilidad, pero exige cierto nivel de experiencia en la orquestación de los contenedores.
+
+Despliegue Blue-Green: consiste en desplegar dos entornos idénticos, uno “azul” y otro “verde”. Uno se destina a la producción y el otro a probar nuevos cambios. Una vez 
+finalizadas las experimentaciones, las modificaciones se trasladan rápidamente al entorno de producción. Esta vía contribuye a la reducción del tiempo de inactividad y el riesgo, 
+aunque requiere cierto nivel de automatización y experiencia en orquestación.
+
+Despliegue Red-Black (también conocida como Blue-Green deployment) es una técnica utilizada en el ámbito de la ingeniería de software 
+para actualizar o desplegar nuevas versiones de una aplicación de manera segura y sin interrupciones para los usuarios finales. Esta estrategia busca minimizar los riesgos asociados 
+con los cambios en la aplicación y garantizar una experiencia fluida para los usuarios.
+
+Despliegue Rollback: implica volver a una versión anterior del software en caso de problemas o errores, lo cual ayuda a reducir el período de inactividad y minimizar el impacto 
+de los errores. Para aplicarlo, asegúrate de contar con un sólido sistema de control de versiones. 
