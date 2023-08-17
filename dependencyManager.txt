@@ -1,0 +1,2 @@
+The dependency manager used in our project is NPM
+Since we are using NodeJS for the Backend 
