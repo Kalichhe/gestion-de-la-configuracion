@@ -1,0 +1,23 @@
+
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form .email {
+    border-color: aqua;
+}
+
+.form .password {
+    border-color: aqua;
+}
+
+.form .buttonLogin {
+    width: 100%;
+    margin-top: 10px;
+}
+
