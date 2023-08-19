@@ -10,4 +10,4 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 
 1. Al estar en la pantalla de inicio de tu **PC** o **Laptop** presiona las siguientes teclas que aparecerán a continuación: La tecla **Windows** + **R**, al presionar esas teclas te aparecerá una ventana en la parte inferior izquierda de tu pantalla.
 
-* ![Foto](https://drive.google.com/uc?id=1fjuXlyW4hY21laLF445P3Mjpg0uBoFve)
+> ![Foto](https://drive.google.com/uc?id=1fjuXlyW4hY21laLF445P3Mjpg0uBoFve)
