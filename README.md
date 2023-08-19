@@ -85,10 +85,7 @@ Vamos a verificar si **Git** se encuentra instalado en tu maquina al igual que *
 > ![Foto](https://drive.google.com/uc?id=1Zd3EOggavTuEIEjIWg0sDD7fXwBNIAvt)
 
 3. Cuando estés ahí en la zona de descargas, descargas la versión para el **Sistema Operativo** de tu sistema.
-
-> ![Foto](https://drive.google.com/uc?id=1dnYFQkNndv9JDw53BQqJi07GTBhoF0K6)
-
-> Y si de casualidad no sabes que **Sistema Operativo** tienes, la misma página te indica cuál es tu **SO**, y puedes darle ahí donde está la pantalla azul al lado derecho superior, como indica la siguiente imagen.
+> **Nota:** Y si de casualidad no sabes que **Sistema Operativo** tienes, la misma página te indica cuál es tu **SO**, y puedes darle ahí donde está la pantalla azul al lado derecho superior, como indica la siguiente imagen.
 
 > ![Foto](https://drive.google.com/uc?id=1Q_ur3lPtiBCq0hvVblTkdB3M-eZwYQ15)
 
