@@ -8,14 +8,13 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 
 ### **Lista de títulos**
 * [Npm](#NPM)
-* [Node.js](#Node.js)
+* [Node.js](#Node-js)
 * [Instalación de Node.js](#Instalación-de-Node.js)
 * [Git](#Git)
 * [Instalación de Git](#Instalación-de-Git)
 * [Clonar un repositorio](#Clonar-un-repositorio)
 * [Entrar a las ramas del repositorio](#Entrar-a-las-ramas-del-repositorio)
-
-
+* * [Instalar las dependencias del proyecto y la ejecución del proyecto](#Instalar-las-dependencias-del-proyecto-y-la-ejecución-del-proyecto)
 
 > **Nota:** Estos pasos van a estar detallados al mínimo para que no te pierdas en ningún paso (Puede haber algunas excepciones).
 
