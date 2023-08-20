@@ -12,7 +12,7 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 
 Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
-### **Pasos a seguir** 
+### **Pasos a seguir**
 
 1. Al estar en la pantalla de inicio de tu **PC** o **Laptop** presiona las siguientes teclas que aparecerán a continuación: La tecla **Windows** + **R**, al presionar esas teclas te aparecerá una ventana en la parte inferior izquierda de tu pantalla, similar a esta.
 
@@ -139,3 +139,101 @@ Vamos a verificar si **Git** se encuentra instalado en tu maquina al igual que *
 > ![Foto](https://drive.google.com/uc?id=1JGF86G-bJwaqD2BPXzrOunz9ka-hF9N7)
 
 > Vas a escribir `cmd` y con ese comando se te abrirá una **Terminal** ubicada en la carpeta en la cual vas a clonar el **Repositorio**.
+
+3. Lo siguiente será copiar la *URL* del **Repositorio** que será clonado.
+
+> Cuando este ya en el **repositorio** harás lo siguiente.
+
+> Darás clic en el botón verde que dice **Code**
+
+ ![Foto](https://drive.google.com/uc?id=1gKPa1zUG5UjIe3EoSAZsTW_xQlzJ-3nQ)
+
+>Cuando le hayas dado te saldrá lo siguiente.
+
+ ![Foto](https://drive.google.com/uc?id=1MAVwVSm7L-POiJLT8mhYyKhl2DUt0Cvt)
+
+> Y le darás al botón que se está señalando, cuando le des se te copiara el enlace al portapapeles.
+
+4. Ahora, vamos a pegar el código en la **terminal** y nos quedaría de la siguiente forma.
+
+> Pero antes, tienes que poner el siguiente comando `git clone`, que servirá para clonar el **repositorio**.
+
+> ![Foto](https://drive.google.com/uc?id=1TW6g4T4egMHHwnqPfI-WNF7zzH1gjZGL)
+
+> Después de haber clonado el repositorio, debería de quedarte de la siguiente manera (La estructura, no importan los números, porque pueden cambiar)
+
+> ![Foto](https://drive.google.com/uc?id=1uPaFNhs8l2X4oFvw5GJyk1L8XpN_ombF)
+
+> Eso indica que el repositorio fue clonado exitosamente.
+
+> **Nota:** Puedes usar el comando `clear`, para poder limpiar la pantalla
+
+5. Ahora, lo que haremos será entrar a la carpeta del **Código** que fue clonado. Para eso usaremos los siguientes comandos.
+
+  * `ls` Lo que hace es listar todos los elementos que hallan en la carpeta en la que estás actualmente.
+
+  * `cd` más `TAB` (Que TAB es la tecla que tiene dos flechas, una hacia cada lado) Lo que hace **cd** es llevarte a la directorio que hallas elegido, pero para poder elegir el directorio lo que tienes que hacer es presionar el **TAB** o **Tabulador** para que el mismo te agregue la ruta a la cual el **cd** te llevara. Por lógica la única ruta que debe de haber es de la carpeta donde se encuentra el código.
+
+> Entonces si haces todo bien, ya deberias de estar en la carpeta del codigo clonado.
+
+### **Entrar a las ramas del repositorio**
+
+> Lo que realizaremos en este paso, será como cambiar de **rama** o **branch**, eso quiere decir, que nos moveremos de zona de trabajo a la zona en la cual está el código del **proyecto**.
+
+1. Lo que tienes que hacer aca es verificar en que **branch** te encuentras. Para hacer eso lo que tenemos que hacer es de ejecutar el siguiente comando en la terminal. 
+
+> `git branch` Al momento de ejecutar eso, te debera de aparecer las **ramas** que tiene el proyecto y por defecto debes de aparecer en el **branch** [** main*], el * quiere decir que estas en esa rama actualmente.
+
+> Deberia verse así o solo con la rama **main**
+
+> ![Foto](https://drive.google.com/uc?id=1k7mA-BG1ELMI70M1HyH_uTLrmUCd-AGn)
+
+2. Ahora, haremos el cambio de la rama **main** a la rama **Sebatian_Vanegas_Garzon-Carlos_Mario_Lopez_Pestana**, entonces para poder hacer ese cambio debemos de escribir el siguiente comando.
+
+> `git checkout Sebatian_Vanegas_Garzon-Carlos_Mario_Lopez_Pestana` Al ejecutar este comando, lo que hara sera cambiarnos de la **rama** [*main*] a la **rama** [*Sebatian_Vanegas_Garzon-Carlos_Mario_Lopez_Pestana*] y extraera los archivos que estan en el **branch** [*Sebatian_Vanegas_Garzon-Carlos_Mario_Lopez_Pestana*] y deberia de verse así.
+
+> ![Foto](https://drive.google.com/uc?id=1SQJJuGgD2-hTpf9qMNFxub_LEh2BVTst)
+
+> Puedes verificar que te has cambiado de rama ejecutando el comando `ls` y te mostrara los nuevos archivos que han sido agregados por el cambio de **rama**.
+
+> Entonces, si no te manda algun error quiere decir que te has cambiado de **rama** de forma existosa.
+
+### **Instalar las dependencias del proyecto**
+
+> Ahora lo que haremos sera entrar a las carpeta donde se encuentra todo el codigo fuente.
+
+1. Lo que haremos sera ejecutar el comando `cd code` lo cual te llevara a la carpeta donde se encuentra todo el codigo fuente del programa.
+
+> ![Foto](https://drive.google.com/uc?id=1tq0QlrJkc6qqIoaHYbFI5Qtp7ZcHVBZb)
+
+2. Cuando ya estes ahí, lo siguiente sera ejecutar este comando en la terminal.
+
+> `npm install` o `npm i` Lo que hara este comando será buscar el archivo **package.json** a instalar todas las dependencias que aparescan es ese archivo y si ya tienes algunas solo las actualizara si es necesario.
+
+> ![Foto](https://drive.google.com/uc?id=1ZHEsVEEF7ZbbBWgepVGIfc8sWPxh-bkL)
+
+3. Para ahorrar unos pasos, lo que haremos sera escribir el siguiente comando `npm run dev`, lo que hara sera correr nuestro servidor **BackEnd**.
+
+> ![Foto](https://drive.google.com/uc?id=1ZnWdMRrDvTIJ3857FNZ80Xzp7y4pxbKi)
+
+4. Ahora, ejecutamos el siguiente comando `cd client` que nos llevara hasta la carpeta donde esta el codigo fuente del **FrontEnd**
+
+> ![Foto](https://drive.google.com/uc?id=1JB2jCbCFS8Op9qxfDYyAuvVswfU8B7Ut)
+
+5. Cuando ya estes ahí, lo siguiente sera ejecutar este comando en la terminal.
+
+> `npm install` o `npm i` Lo que hara este comando será buscar el archivo **package.json** a instalar todas las dependencias que aparescan es ese archivo y si ya tienes algunas solo las actualizara si es necesario.
+
+> ![Foto](https://drive.google.com/uc?id=1vEdQN9QWiXqBlR2_9UAINVc-QU2I6h7w)
+
+5. Ahora, ejecutamos el siguiente comando `npm run dev`, pero este va en la carpeta **client**, a la cual acabamos de acceder.
+
+> ![Foto](https://drive.google.com/uc?id=1N3YxZMj_oRE5Z3OFxFcKqHpHocbnx7iq)
+
+6. Ahora cuando ya tengas ejecutado el **BackEnd** y el **FrontEnd**, copia esta dirección ip en tu navegador. `http://localhost:5174/``
+
+> O das clic aquí y te mandara alla mismo [Link](http://localhost:5174/)
+
+Cuando ya estes ahi puedes registrarte e iniciar sesion
+
+Muchas Gracias Por Su Colaboración
