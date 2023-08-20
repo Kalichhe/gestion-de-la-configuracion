@@ -14,7 +14,7 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 * [Instalación de Git](#Instalación-de-Git)
 * [Clonar un repositorio](#Clonar-un-repositorio)
 * [Entrar a las ramas del repositorio](#Entrar-a-las-ramas-del-repositorio)
-* * [Instalar las dependencias del proyecto y la ejecución del proyecto](#Instalar-las-dependencias-del-proyecto-y-la-ejecución-del-proyecto)
+* [Instalar las dependencias del proyecto y la ejecución del proyecto](#Instalar-las-dependencias-del-proyecto-y-la-ejecución-del-proyecto)
 
 > **Nota:** Estos pasos van a estar detallados al mínimo para que no te pierdas en ningún paso (Puede haber algunas excepciones).
 
@@ -24,7 +24,7 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 
 > NPM se puede considerar como las siglas de Node Package Manager, es decir, gestor de paquetes de Node.js, un entorno de ejecución multiplataforma para ejecutar JavaScript no solo en un navegador web (como se concibió originalmente) sino fuera de él, y poder utilizarlo en sistemas de escritorio o servidores web.
 
-## **Node.js**
+## **Nodejs**
 
 Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
