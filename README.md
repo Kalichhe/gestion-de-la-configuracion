@@ -11,7 +11,7 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 * [Npm](#NPM)
 * [Node.js](#Nodejs)
 * [Instalación de Node.js](#Instalación-Nodejs)
-* [Git](#Git)
+* <a href="#git">Git</a>
 * [Instalación de Git](#Instalación-git)
 * [Clonar un repositorio](#Clonar-un-repositorio)
 * [Entrar a las ramas del repositorio](#Ramas)
@@ -71,7 +71,7 @@ Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
 > **Nota:** Después de que tengas instalado el programa en tú máquina, podemos seguir. Si deseas puedes repetir los pasos anteriores (1, 2, 3 en la parte de **Node.js**) para verificar si **Node.js** ya está disponible.
 
-<a name="Git"></a>
+<h2 id="git">Git</h2>
 ## **Git**
 
 Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que **Node.js**.
