@@ -6,7 +6,16 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 
 ## **Pasos a seguir para clonar y ejecutar el código que se encuentra en el GitHub**
 
+### **Lista de títulos**
+* [Npm](#NPM)
+* [Node.js](#Node.js)
+* [Instalación de Node.js](#Instalación-de-Node.js)
 * [Git](#Git)
+* [Instalación de Git](#Instalación-de-Git)
+* [Clonar un repositorio](#Clonar-un-repositorio)
+* [Entrar a las ramas del repositorio](#Entrar-a-las-ramas-del-repositorio)
+* [Instalar las dependencias del proyecto y la ejecución del proyecto](#Instalar-las-dependencias-del-proyecto-y-la-ejecución-del-proyecto)
+
 
 > **Nota:** Estos pasos van a estar detallados al mínimo para que no te pierdas en ningún paso (Puede haber algunas excepciones).
 
@@ -19,8 +28,6 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 ## **Node.js**
 
 Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
-
-### **Pasos a seguir**
 
 1. En tu **PC** o **Laptop** presiona las siguientes teclas: La tecla **Windows** + **R**, al presionar esas teclas te aparecerá una ventana en la parte inferior izquierda de tu pantalla, similar a esta.
 
@@ -200,7 +207,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Entonces, si no te manda algún error quiere decir que te has cambiado de **rama** de forma exitosa.
 
-### **Instalar las dependencias del proyecto**
+### **Instalar las dependencias del proyecto y la ejecución del proyecto**
 
 En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd** y la otra para el **FrontEnd**
 
