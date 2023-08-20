@@ -14,8 +14,6 @@ Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
 ### **Pasos a seguir**
 
-### **Clonar un repositorio**
-
 1. Al estar en la pantalla de inicio de tu **PC** o **Laptop** presiona las siguientes teclas que aparecerán a continuación: La tecla **Windows** + **R**, al presionar esas teclas te aparecerá una ventana en la parte inferior izquierda de tu pantalla, similar a esta.
 
 > ![Foto](https://drive.google.com/uc?id=15JCC8EMJpW_m7vCkBHWp3Q-LV_JEwhiG)
