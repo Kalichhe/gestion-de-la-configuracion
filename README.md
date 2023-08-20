@@ -2,7 +2,7 @@
 
 ## **Calculator**
 
-Esta es la guía que necesitas seguir para poder clonar o copiar el código que está él en repositorio de GitHub y tenerlo en tu máquina, así podrás ejecutar y probar nuestra ***Calculator*** en la página web que desees.
+Esta es la guía que necesitas seguir para poder clonar o copiar el código que está en él repositorio de GitHub y tenerlo en tu máquina, así podrás ejecutar y probar nuestra ***Calculator*** en la página web que desees.
 
 ## **Pasos a seguir para clonar y ejecutar el codigo que se encuentra en el GitHub**
 
