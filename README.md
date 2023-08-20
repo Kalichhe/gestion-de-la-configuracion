@@ -8,7 +8,7 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 
 ### **Lista de títulos**
 * [Npm](#NPM)
-* [Node.js](#Node-js)
+* [Node.js](#Nodejs)
 * [Instalación de Node.js](#Instalación-de-Node.js)
 * [Git](#Git)
 * [Instalación de Git](#Instalación-de-Git)
