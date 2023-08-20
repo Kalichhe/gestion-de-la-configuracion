@@ -9,7 +9,7 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 ### **Lista de títulos**
 * [Npm](#NPM)
 * [Node.js](#Nodejs)
-* [Instalación de Node.js](#Instalación-de-Node.js)
+* [Instalación de Nodejs](#Instalación-de-Nodejs)
 * [Git](#Git)
 * [Instalación de Git](#Instalación-de-Git)
 * [Clonar un repositorio](#Clonar-un-repositorio)
@@ -44,7 +44,7 @@ Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
 > **Nota:** Si ya tienes instalado **Node.js** en tu sistema, puedes saltarte estos pasos para su instalación.
 
-### **Instalación de Node.js**
+### **Instalación de Nodejs**
 
 > **Nota:** Node.js es un entorno de ejecución de código abierto construido sobre el motor de JavaScript V8 de Google Chrome. Permite ejecutar código JavaScript fuera del navegador web, en el lado del servidor. A diferencia de la mayoría de las implementaciones de JavaScript, que se ejecutan en el navegador para crear interacciones dinámicas en sitios web, Node.js se enfoca en la ejecución de código en el servidor para crear aplicaciones web y servicios.
 
