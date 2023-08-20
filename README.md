@@ -61,7 +61,7 @@ Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
 > ![Foto](https://drive.google.com/uc?id=1PW66xN9MoQOS4EQPzxoZRvVg0E-RcXj8)
 
-> **Nota:** en nuestro caso, descargaremos la versión para **Windows**
+> **Nota:** en nuestro caso, descargaremos la versión para **Windows**.
 
 4. Cuando el archivo termine su descarga, ahora ya podrás instalarlo. La instalación es relativamente sencilla, solo debes de dar **siguiente**, marcas las casillas y a final es posible que te mande una ventana emergente que te pida autorización de conectarse a una red pública.
 
@@ -155,7 +155,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Cuando este ya en el **repositorio** harás lo siguiente.
 
-> Llega hasta arriba del repositorio dandole aquí [Inicio](#Calculator) y darás clic en el botón verde que dice **Code**
+> Llega hasta arriba del repositorio dandole aquí [Inicio](#Calculator) y darás clic en el botón verde que dice **Code**.
 
 > ![Foto](https://drive.google.com/uc?id=1gKPa1zUG5UjIe3EoSAZsTW_xQlzJ-3nQ)
 
@@ -169,13 +169,13 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > ![Foto](https://drive.google.com/uc?id=1TW6g4T4egMHHwnqPfI-WNF7zzH1gjZGL)
 
-> Después de haber clonado el repositorio, debería de quedarte de la siguiente manera (La estructura, no importan los números, porque pueden cambiar)
+> Después de haber clonado el repositorio, debería de quedarte de la siguiente manera (La estructura, no importan los números, porque pueden cambiar).
 
 > ![Foto](https://drive.google.com/uc?id=1uPaFNhs8l2X4oFvw5GJyk1L8XpN_ombF)
 
 > Eso indica que el repositorio fue clonado exitosamente.
 
-> **Nota:** Puedes usar el comando `clear`, para poder limpiar la pantalla
+> **Nota:** Puedes usar el comando `clear`, para poder limpiar la pantalla.
 
 5. Ahora, lo que haremos será entrar a la carpeta del **Código** que fue clonado. Para eso usaremos los siguientes comandos.
 
@@ -209,7 +209,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 ### **Instalar las dependencias del proyecto y la ejecución del proyecto**
 
-En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd** y la otra para el **FrontEnd**
+En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd** y la otra para el **FrontEnd**.
 
 > Ahora lo que haremos será entrar a la carpeta donde se encuentra todo el código fuente.
 
@@ -229,7 +229,7 @@ En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd**
 
 4. Ahora, nos pasamos a la otra terminar y ejecutamos el siguiente comando.  
 
-> `cd client` que nos llevara hasta la carpeta donde está el código fuente del **FrontEnd**
+> `cd client` que nos llevara hasta la carpeta donde está el código fuente del **FrontEnd**.
 
 > ![Foto](https://drive.google.com/uc?id=1JB2jCbCFS8Op9qxfDYyAuvVswfU8B7Ut)
 
@@ -249,6 +249,6 @@ En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd**
 
 > ![Foto](https://drive.google.com/uc?id=15wDfQRzlb6zsfLrVmz4AqpxUafdUvo2P)
 
-> Y ese enlace te mandará a la **Página** de la **Calculadora**
+> Y ese enlace te mandará a la **Página** de la **Calculadora**.
 
 > Entonces puedes **registrarte** e **iniciar sesión** y ya con eso puedes disfrutar de nuestra **Calculadora**.
