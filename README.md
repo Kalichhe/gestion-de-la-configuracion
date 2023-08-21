@@ -8,27 +8,24 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 ## **Pasos a seguir para clonar y ejecutar el código que se encuentra en el GitHub**
 
 ### **Lista de títulos**
-* [Npm](#NPM)
-* [Node.js](#Nodejs)
-* [Instalación de Node.js](#Instalación-Nodejs)
+* <a href="#npm">NPM</a>
+* <a href="#nodejs">Node.js</a>
+* <a href="#instalacion-Nodejs">Instalación de Node.js</a>
 * <a href="#git">Git</a>
-* [Instalación de Git](#Instalación-git)
-* [Clonar un repositorio](#Clonar-un-repositorio)
-* [Entrar a las ramas del repositorio](#Ramas)
-* [Instalar las dependencias del proyecto y la ejecución del proyecto](#Dependencias)
-
+* <a href="#instalacion-Git">Instalación de Git</a>
+* <a href="#clonar-un-repositorio">Clonar un repositorio</a>
+* <a href="#ramas">Entrar en las ramas del repositorio</a>
+* <a href="#dependencias">Instalar las dependencias del proyecto y la ejecución del proyecto</a>
 
 > **Nota:** Estos pasos van a estar detallados al mínimo para que no te pierdas en ningún paso (Puede haber algunas excepciones).
 
 > **Nota:** Después de terminar de copiar los comandos, darás **Enter** para que se ejecute.
 
-<a id="NPM"></a>
-## **NPM**
+<h2 id="npm">NPM</h2>
 
 > NPM se puede considerar como las siglas de Node Package Manager, es decir, gestor de paquetes de Node.js, un entorno de ejecución multiplataforma para ejecutar JavaScript no solo en un navegador web (como se concibió originalmente) sino fuera de él, y poder utilizarlo en sistemas de escritorio o servidores web.
 
-<a name="Nodejs"></a>
-## **Node.js**
+<h2 id="nodejs">Node.js</h2>
 
 Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
@@ -48,8 +45,7 @@ Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
 > **Nota:** Si ya tienes instalado **Node.js** en tu sistema, puedes saltarte estos pasos para su instalación.
 
-<a name="Instalacion-Nodejs"></a>
-### **Instalación de Node.js**
+<h2 id="instalacion-Nodejs">Instalación de Node.js</h2>
 
 > **Nota:** Node.js es un entorno de ejecución de código abierto construido sobre el motor de JavaScript V8 de Google Chrome. Permite ejecutar código JavaScript fuera del navegador web, en el lado del servidor. A diferencia de la mayoría de las implementaciones de JavaScript, que se ejecutan en el navegador para crear interacciones dinámicas en sitios web, Node.js se enfoca en la ejecución de código en el servidor para crear aplicaciones web y servicios.
 
@@ -72,7 +68,6 @@ Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 > **Nota:** Después de que tengas instalado el programa en tú máquina, podemos seguir. Si deseas puedes repetir los pasos anteriores (1, 2, 3 en la parte de **Node.js**) para verificar si **Node.js** ya está disponible.
 
 <h2 id="git">Git</h2>
-## **Git**
 
 Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que **Node.js**.
 
@@ -90,8 +85,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Si no es el caso y te aparece un mensaje de error que puede decir que no tienes instalado el **Git**, bueno ahora lo instalaremos.
 
-<a name="Instalacion-git"></a>
-### **Instalación de Git**
+<h2 id="instalacion-Git">Instalación de Git</h2>
 
 > **Nota:** Git es un sistema de control de versiones distribuido ampliamente utilizado en el desarrollo de software y en la gestión de proyectos colaborativos. Fue creado por Linus Torvalds en 2005 para administrar el desarrollo del kernel de Linux, pero desde entonces se ha convertido en una herramienta esencial en la industria del software.
 
@@ -119,8 +113,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > **Nota:** Después de que tengas instalado el programa en tú máquina, podemos seguir. Si deseas puedes repetir los pasos anteriores (1, 2, 3 en la parte de **Git**) para verificar si **Git** ya está disponible.
 
-<a name="Clonar"></a>
-### **Clonar un repositorio**
+<h2 id="clonar">Clonar un repositorio</h2>
 
 1. Antes de todo, tienes que primero crear la carpeta en la cual vas a **clonar** el código fuente de la aplicación web.
 
@@ -192,8 +185,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Entonces si haces todo bien, ya deberías de estar en la carpeta del código clonado.
 
-<a name="Ramas"></a>
-### **Entrar a las ramas del repositorio**
+<h2 id="ramas">Entrar a las ramas del proyecto</h2>
 
 > Lo que realizaremos en este paso, será como cambiar de **rama**, eso quiere decir, que nos moveremos de zona de trabajo a la zona en la cual está el código del **proyecto**.
 
@@ -215,8 +207,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Entonces, si no te manda algún error quiere decir que te has cambiado de **rama** de forma exitosa.
 
-<a name="Dependencias"></a>
-### **Instalar las dependencias del proyecto y la ejecución del proyecto**
+<h2 id="dependencias">Instalar las dependencias del proyecto y la ejecución del proyecto</h2>
 
 En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd** y la otra para el **FrontEnd**.
 
