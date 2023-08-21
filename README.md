@@ -1,9 +1,31 @@
 # **Gestión De La Configuración**
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+@keyframes moveText {
+    0% {
+        transform: translateX(0);
+    }
+    50% {
+        transform: translateX(50px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
 
-<html> 
-<marquee style='width: 50%; height: 300%;font-family:Cursive;font-size:64pt; color: blue;'><b>Clase 3: Física 2 Universidad de Medellín, "Movimiento Armonico Simple Ecuación de Movimiento"</b></marquee>
+.moving-text {
+    animation: moveText 4s linear infinite;
+}
+</style>
+</head>
+<body>
+    <div class="moving-text">
+        # ¡Texto en Movimiento!
+    </div>
+</body>
 </html>
-
 
 <h1 id="inicio">Calculator</h1>
 
