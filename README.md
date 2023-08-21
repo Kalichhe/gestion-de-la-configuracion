@@ -1,5 +1,5 @@
 # **Gestión De La Configuración**
-
+#@title
 <html> 
 <marquee style='width: 50%; height: 300%;font-family:Cursive;font-size:64pt; color: blue;'><b>Clase 3: Física 2 Universidad de   Medellín, "Movimiento Armonico  Simple Ecuación de   Movimiento"</b></marquee>
 </html>
