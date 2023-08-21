@@ -1,7 +1,6 @@
 # **Gestión De La Configuración**
 
-<a name="Inicio"></a>
-## **Calculator**
+<h1 id="inicio">Calculator</h1>
 
 Esta es la guía que necesitas seguir para poder clonar o copiar el código que está él en repositorio de GitHub y tenerlo en tu máquina, así podrás ejecutar y probar nuestra ***Calculator*** en la página web que desees.
 
@@ -155,7 +154,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Cuando este ya en el **repositorio** harás lo siguiente.
 
-> Llega hasta arriba del repositorio dandole aquí [Inicio](#Inicio) y darás clic en el botón verde que dice **Code**.
+> Llega hasta arriba del repositorio dandole aquí <a href="#inicio">Inicio</a> y darás clic en el botón verde que dice **Code**.
 
 > ![Foto](https://drive.google.com/uc?id=1gKPa1zUG5UjIe3EoSAZsTW_xQlzJ-3nQ)
 
