@@ -1,31 +1,4 @@
 # **Gestión De La Configuración**
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-@keyframes moveText {
-    0% {
-        transform: translateX(0);
-    }
-    50% {
-        transform: translateX(50px);
-    }
-    100% {
-        transform: translateX(0);
-    }
-}
-
-.moving-text {
-    animation: moveText 4s linear infinite;
-}
-</style>
-</head>
-<body>
-    <div class="moving-text">
-        # ¡Texto en Movimiento!
-    </div>
-</body>
-</html>
 
 <h1 id="inicio">Calculator</h1>
 
