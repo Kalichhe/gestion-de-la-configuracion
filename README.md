@@ -20,7 +20,7 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 
 > **Nota:** Después de terminar de copiar los comandos, darás **Enter** para que se ejecute.
 
-<h2 id="npm">NPM</h2> 
+<h2 id="npm">NPM</h2>
 <a href="#inicio">Inicio</a>
 
 > NPM se puede considerar como las siglas de Node Package Manager, es decir, gestor de paquetes de Node.js, un entorno de ejecución multiplataforma para ejecutar JavaScript no solo en un navegador web (como se concibió originalmente) sino fuera de él, y poder utilizarlo en sistemas de escritorio o servidores web.
@@ -124,7 +124,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Entonces, en la misma terminal escribes el siguiente comando: `start explorer` este comando sirve para abrir el explorador de archivos. Debería de quedarte así.
 
-> ![Foto](https://drive.google.com/uc?id=10o7cDmfot2oI9Ko-_hxMwec8qFwxwP87)
+> ![Foto](https://drive.google.com/uc?id=15rSoDMAysSJItJiyHvmum-wrwCVmhTPt)
 
 > Cuando ya estés en la carpeta, puedes crear la carpeta donde quieras, pero nosotros lo haremos en la **Carpeta** principal de **Documentos**.
 
@@ -172,9 +172,9 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 4. Ahora, vamos a pegar el código en la **terminal**, pero antes debemos de poner `git clone` que sirve para poder clonar el **repositorio** y nos quedaría de la siguiente forma.
 
-> ![Foto](https://drive.google.com/uc?id=1TW6g4T4egMHHwnqPfI-WNF7zzH1gjZGL)
+> ![Foto](https://drive.google.com/uc?id=125ZFJRTNWXf4PdiDrD43x_iAGgfWMPXy)
 
-> Después de haber clonado el repositorio, debería de quedarte de la siguiente manera (La estructura, no importan los números, porque pueden cambiar).
+> Después de haber clonado el repositorio, debería de quedarte parecido a la siguiente imagen (La estructura, no importan los números, porque pueden cambiar).
 
 > ![Foto](https://drive.google.com/uc?id=1uPaFNhs8l2X4oFvw5GJyk1L8XpN_ombF)
 
@@ -186,7 +186,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > **Nota:** `dir` Lo que hace es listar todos los elementos que hallan en la carpeta en la que estás actualmente.
 
-> **Nota:** `cd` más **Ruta del directorio** Lo que hace **cd** es llevarte a el directorio que hallas elegido, pero para poder elegir el directorio y el directorio es el nombre del **Repositorio** que has clonado. También puedes presionar **Tabulador** y él te escribirá ese nombre ahí.
+> `cd` más **Ruta del directorio** Lo que hace **cd** es llevarte a el directorio que hallas elegido, pero para poder elegir el directorio, es el nombre del **Repositorio** que has clonado. También puedes presionar **Tabulador** y él te escribirá ese nombre ahí.
 
 > Entonces si haces todo bien, ya deberías de estar en la carpeta del código clonado.
 
@@ -207,7 +207,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > `git checkout Sebatian_Vanegas_Garzon-Carlos_Mario_Lopez_Pestana` Al ejecutar este comando, lo que hará es cambiarnos de la **rama** [*main*] a la **rama** [*Sebatian_Vanegas_Garzon-Carlos_Mario_Lopez_Pestana*] y extraerá los archivos que están en esa **rama** [*Sebatian_Vanegas_Garzon-Carlos_Mario_Lopez_Pestana*] y debería de verse así.
 
-> ![Foto](https://drive.google.com/uc?id=1SQJJuGgD2-hTpf9qMNFxub_LEh2BVTst)
+> ![Foto](https://drive.google.com/uc?id=1lAZAi-wAgvE8W6KI_RLUnHtvcZbdtB9g)
 
 > Puedes verificar que te has cambiado de **rama** ejecutando el comando `dir` y te mostrara los nuevos archivos que han sido agregados por el cambio de **rama**.
 
@@ -222,33 +222,43 @@ En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd**
 
 1. Lo que haremos será ejecutar el comando `cd code` lo cual te llevara a la carpeta donde se encuentra todo el código fuente del programa.
 
-> ![Foto](https://drive.google.com/uc?id=1tq0QlrJkc6qqIoaHYbFI5Qtp7ZcHVBZb)
+> ![Foto](https://drive.google.com/uc?id=1gDj9kJrvf5OAn3YlJtT6j70SAo9JS1bP)
 
 2. Cuando ya estés ahí, lo siguiente será ejecutar este comando en la terminal.
 
 > `npm install` o `npm i` Lo que hará este comando será buscar el archivo **package.json** a instalar todas las dependencias que aparezcan es ese archivo y si ya tienes algunas solo las actualizara si es necesario.
 
-> ![Foto](https://drive.google.com/uc?id=1ZHEsVEEF7ZbbBWgepVGIfc8sWPxh-bkL)
+> ![Foto](https://drive.google.com/uc?id=1Scnc0tYwX2t5FJDJSPq0InVpuRpRKBSN)
 
 3. Para ahorrar unos pasos, lo que haremos será escribir el siguiente comando `npm run dev`, lo que hará será correr nuestro servidor **BackEnd**.
 
-> ![Foto](https://drive.google.com/uc?id=1ZnWdMRrDvTIJ3857FNZ80Xzp7y4pxbKi)
+> ![Foto](https://drive.google.com/uc?id=1GYx6hwo1YRaJ7p77zTqXAKYekhjJUuPV)
 
-4. Ahora, nos pasamos a la otra terminar y ejecutamos el siguiente comando.  
+> Y quedaría así: 
+
+> ![Foto](https://drive.google.com/uc?id=1wUm2wuU75hvQX1mqIfXImIYie1nfz5dg)
+
+4. Ahora, nos pasamos a la otra terminar y ejecutamos el siguiente comando.
+
+> Antes de pasarnos escribimos el siguiente comando: `cd gestion-de-la-configuracion/code`
+
+> ![Foto](https://drive.google.com/uc?id=1etyRylaumy2sNTVBzM3ybeCoJbk-uQWp)
+
+> Ahora si podemos seguir.
 
 > `cd client` que nos llevara hasta la carpeta donde está el código fuente del **FrontEnd**.
 
-> ![Foto](https://drive.google.com/uc?id=1JB2jCbCFS8Op9qxfDYyAuvVswfU8B7Ut)
+> ![Foto](https://drive.google.com/uc?id=1eJeV85aBnnNbxUg191ZTHj8mkiwQemp5)
 
 5. Cuando ya estés ahí, lo siguiente será ejecutar este comando en la terminal.
 
 > `npm install` o `npm i` Lo que hará este comando será buscar el archivo **package.json** a instalar todas las dependencias que aparezcan es ese archivo y si ya tienes algunas solo las actualizara si es necesario.
 
-> ![Foto](https://drive.google.com/uc?id=1vEdQN9QWiXqBlR2_9UAINVc-QU2I6h7w)
+> ![Foto](https://drive.google.com/uc?id=1pdnvBaMNe9CstdF0do9hAZId_Y6dFJt0)
 
 5. Ahora, ejecutamos el siguiente comando `npm run dev`, pero este va en la carpeta **client**, a la cual acabamos de acceder.
 
-> ![Foto](https://drive.google.com/uc?id=1N3YxZMj_oRE5Z3OFxFcKqHpHocbnx7iq)
+> ![Foto](https://drive.google.com/uc?id=13KkoohwbH_7iKWO2a9kzw2ggbi2eazWR)
 
 6. Ahora cuando ya tengas ejecutado el **BackEnd** y el **FrontEnd** ejecutándose.
 
