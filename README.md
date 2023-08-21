@@ -11,7 +11,7 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 * <a href="#nodejs">Node.js</a>
 * <a href="#instalacionNodejs">Instalación de Node.js</a>
 * <a href="#git">Git</a>
-* <a href="#instalacion-Git">Instalación de Git</a>
+* <a href="#instalacionGit">Instalación de Git</a>
 * <a href="#clonar-un-repositorio">Clonar un repositorio</a>
 * <a href="#ramas">Entrar en las ramas del repositorio</a>
 * <a href="#dependencias">Instalar las dependencias del proyecto y la ejecución del proyecto</a>
