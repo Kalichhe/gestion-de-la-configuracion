@@ -9,9 +9,9 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 ### **Lista de títulos**
 * <a href="#npm">NPM</a>
 * <a href="#nodejs">Node.js</a>
-* <a href="#instalacion-Nodejs">Instalación de Node.js</a>
+* <a href="#instalacion-nodejs">Instalación de Node.js</a>
 * <a href="#git">Git</a>
-* <a href="#instalacion-Git">Instalación de Git</a>
+* <a href="#instalacion-git">Instalación de Git</a>
 * <a href="#clonar-un-repositorio">Clonar un repositorio</a>
 * <a href="#ramas">Entrar en las ramas del repositorio</a>
 * <a href="#dependencias">Instalar las dependencias del proyecto y la ejecución del proyecto</a>
@@ -46,7 +46,7 @@ Vamos a verificar si el paquete **Node.js** está instalado en nuestro sistema.
 
 > **Nota:** Si ya tienes instalado **Node.js** en tu sistema, puedes saltarte estos pasos para su instalación.
 
-<h2 id="instalacion-Nodejs">Instalación de Node.js</h2>
+<h2 id="instalacion-nodejs">Instalación de Node.js</h2>
 <a href="#inicio">Inicio</a>
 
 > **Nota:** Node.js es un entorno de ejecución de código abierto construido sobre el motor de JavaScript V8 de Google Chrome. Permite ejecutar código JavaScript fuera del navegador web, en el lado del servidor. A diferencia de la mayoría de las implementaciones de JavaScript, que se ejecutan en el navegador para crear interacciones dinámicas en sitios web, Node.js se enfoca en la ejecución de código en el servidor para crear aplicaciones web y servicios.
@@ -88,7 +88,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Si no es el caso y te aparece un mensaje de error que puede decir que no tienes instalado el **Git**, bueno ahora lo instalaremos.
 
-<h2 id="instalacion-Git">Instalación de Git</h2>
+<h2 id="instalacion-git">Instalación de Git</h2>
 <a href="#inicio">Inicio</a>
 
 > **Nota:** Git es un sistema de control de versiones distribuido ampliamente utilizado en el desarrollo de software y en la gestión de proyectos colaborativos. Fue creado por Linus Torvalds en 2005 para administrar el desarrollo del kernel de Linux, pero desde entonces se ha convertido en una herramienta esencial en la industria del software.
