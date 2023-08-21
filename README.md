@@ -252,7 +252,7 @@ En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd**
 
 6. Ahora cuando ya tengas ejecutado el **BackEnd** y el **FrontEnd** ejecutándose.
 
-> Darás al botón **Ctrl** más **clic derecho sobre este enlace** que está siendo señalado.
+> Darás al botón **Ctrl** más **clic derecho** sobre este enlace que está siendo señalado.
 
 > ![Foto](https://drive.google.com/uc?id=15wDfQRzlb6zsfLrVmz4AqpxUafdUvo2P)
 
