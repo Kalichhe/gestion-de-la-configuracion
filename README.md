@@ -20,7 +20,8 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 
 > **Nota:** Después de terminar de copiar los comandos, darás **Enter** para que se ejecute.
 
-<h2 id="npm">NPM</h2> <a href="#inicio">Inicio</a>
+<h2 id="npm">NPM</h2> 
+<a href="#inicio">Inicio</a>
 
 > NPM se puede considerar como las siglas de Node Package Manager, es decir, gestor de paquetes de Node.js, un entorno de ejecución multiplataforma para ejecutar JavaScript no solo en un navegador web (como se concibió originalmente) sino fuera de él, y poder utilizarlo en sistemas de escritorio o servidores web.
 
