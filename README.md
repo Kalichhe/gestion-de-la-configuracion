@@ -2,7 +2,7 @@
 
 <h1 id="inicio">Calculator</h1>
 
-Esta es la guía que necesitas seguir para poder clonar o copiar el código que está él en repositorio de GitHub y tenerlo en tu máquina, así podrás ejecutar y probar nuestra ***Calculator*** en la página web que desees.
+Aquí tienes la guía que debes seguir para clonar o copiar el código del repositorio de GitHub y tenerlo en tu propia máquina. De esta manera, podrás ejecutar y probar nuestra **calculator** en la página web que prefieras.
 
 ## **Pasos a seguir para clonar y ejecutar el código que se encuentra en el GitHub**
 
@@ -19,6 +19,10 @@ Esta es la guía que necesitas seguir para poder clonar o copiar el código que 
 > **Nota:** Estos pasos van a estar detallados al mínimo para que no te pierdas en ningún paso (Puede haber algunas excepciones).
 
 > **Nota:** Después de terminar de copiar los comandos, darás **Enter** para que se ejecute.
+> 
+<h2 id="windows">Windows</h2>
+<a href="#inicio">Inicio</a>
+> Para poder ejecutar el programa correctamente, es necesario contar con la versión más reciente de Windows instalada en tu sistema.
 
 <h2 id="npm">NPM</h2>
 <a href="#inicio">Inicio</a>
@@ -138,7 +142,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Ahora te metes a la carpeta y seguiremos con los demás pasos.
 
-2. Para poder clonar el **Código Fuente** tenemos que abrir una terminal desde la carpeta en la que estamos.
+2. Para poder clonar el **Código Fuente** tenemos que abrir una terminal desde la carpeta en la que estamos (si tenemos Windows 10).
 
 > Entonces, abrimos la carpeta que creamos antes, damos clic derecho, damos donde dice más opciones.
 
@@ -147,6 +151,12 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 > Ahora le damos donde dice **Abrir Terminal**.
 
 > ![Foto](https://drive.google.com/uc?id=1TerQ5FWXL_w3Fl0ifFlpfXtsQgd_rDsg)
+
+2.1 En caso de tener Window 11 el proceso es:
+
+> Abrimos la carpeta que creamos antes, usando la barra de direcciones del Explorador de archivos. Lo único que tendremos que hacer es escribir “CMD” en la barra de direcciones y presionar “Enter”.
+
+> AQUIIIIIIIIIIIIIIII VAAAAAAAAAAAAAA IMAGNE 1
 
 > Y se abrirá una terminal, la cual estará ubicada en la carpeta. Nos podemos dar cuenta de eso si miramos acá.
 
