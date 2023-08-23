@@ -156,7 +156,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Abrimos la carpeta que creamos antes, usando la barra de direcciones del Explorador de archivos. Lo único que tendremos que hacer es escribir “CMD” en la barra de direcciones y presionar “Enter”.
 
-> ![Foto](https://drive.google.com/file/d/1wjBIVnViljqZBNfn88ljRkobpGFLqrli/view)
+> ![Foto](https://drive.google.com/file/d/1wjBIVnViljqZBNfn88ljRkobpGFLqrli)
 
 > Y se abrirá una terminal, la cual estará ubicada en la carpeta. Nos podemos dar cuenta de eso si miramos acá.
 
