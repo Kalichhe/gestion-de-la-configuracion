@@ -1,8 +1,9 @@
 # **Gestión De La Configuración**
 
-Tenemos que hacer el bin
-git ignore=> investigar
-todoo bien hasta instalar dependencias, no hay necesidad de mostrar como correr el proyecto
+* Tenemos que hacer el bin
+* git ignore=> investigar
+* todoo bien hasta instalar dependencias, no hay necesidad de mostrar como correr el proyecto  `
+* iNVESIGACION DE express-generator
 
 <h1 id="inicio">Calculator</h1>
 
