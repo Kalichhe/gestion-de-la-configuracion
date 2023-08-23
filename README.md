@@ -142,7 +142,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Ahora te metes a la carpeta y seguiremos con los demás pasos.
 
-2. Para poder clonar el **Código Fuente** tenemos que abrir una terminal desde la carpeta en la que estamos (si tenemos Windows 10).
+2. Para poder clonar el **Código Fuente** tenemos que abrir una terminal desde la carpeta en la que estamos (si tenemos Windows 11).
 
 > Entonces, abrimos la carpeta que creamos antes, damos clic derecho, damos donde dice más opciones.
 
@@ -152,11 +152,11 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > ![Foto](https://drive.google.com/uc?id=1TerQ5FWXL_w3Fl0ifFlpfXtsQgd_rDsg)
 
-2.1 En caso de tener Window 11 el proceso es:
+2.1 En caso de tener Window 10 el proceso es:
 
 > Abrimos la carpeta que creamos antes, usando la barra de direcciones del Explorador de archivos. Lo único que tendremos que hacer es escribir “CMD” en la barra de direcciones y presionar “Enter”.
 
-> AQUIIIIIIIIIIIIIIII VAAAAAAAAAAAAAA IMAGNE 1
+> ![Foto](https://drive.google.com/file/d/1wjBIVnViljqZBNfn88ljRkobpGFLqrli/view)
 
 > Y se abrirá una terminal, la cual estará ubicada en la carpeta. Nos podemos dar cuenta de eso si miramos acá.
 
