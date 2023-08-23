@@ -1,5 +1,9 @@
 # **Gestión De La Configuración**
 
+Tenemos que hacer el bin
+git ignore=> investigar
+todoo bien hasta instalar dependencias, no hay necesidad de mostrar como correr el proyecto
+
 <h1 id="inicio">Calculator</h1>
 
 Aquí tienes la guía que debes seguir para clonar o copiar el código del repositorio de GitHub y tenerlo en tu propia máquina. De esta manera, podrás ejecutar y probar nuestra **calculator** en la página web que prefieras.
