@@ -1,10 +1,5 @@
 # **Gestión De La Configuración**
 
-* Tenemos que hacer el bin
-* git ignore=> investigar
-* todoo bien hasta instalar dependencias, no hay necesidad de mostrar como correr el proyecto  `
-* iNVESIGACION DE express-generator
-
 <h1 id="inicio">Calculator</h1>
 
 Aquí tienes la guía que debes seguir para clonar o copiar el código del repositorio de GitHub y tenerlo en tu propia máquina. De esta manera, podrás ejecutar y probar nuestra **calculator** en la página web que prefieras.
@@ -24,9 +19,10 @@ Aquí tienes la guía que debes seguir para clonar o copiar el código del repos
 > **Nota:** Estos pasos van a estar detallados al mínimo para que no te pierdas en ningún paso (Puede haber algunas excepciones).
 
 > **Nota:** Después de terminar de copiar los comandos, darás **Enter** para que se ejecute.
-> 
+>
 <h2 id="windows">Windows</h2>
 <a href="#inicio">Inicio</a>
+
 > Para poder ejecutar el programa correctamente, es necesario contar con la versión más reciente de Windows instalada en tu sistema.
 
 <h2 id="npm">NPM</h2>
@@ -226,7 +222,7 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Entonces, si no te manda algún error quiere decir que te has cambiado de **rama** de forma exitosa.
 
-<h2 id="dependencias">Instalar las dependencias del proyecto y la ejecución del proyecto</h2>
+<h2 id="dependencias">Instalar las dependencias del proyecto</h2>
 <a href="#inicio">Inicio</a>
 
 > Ahora lo que haremos será entrar a la carpeta donde se encuentra todo el código fuente.
@@ -253,34 +249,18 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > ![Foto](https://drive.google.com/uc?id=1pdnvBaMNe9CstdF0do9hAZId_Y6dFJt0)
 
-5. Cuando ya hayas instalado las **Dependencias en las dos rutas**, escribimos el siguiente comando:
+5. Ahora lo que haremos será hacer un **Artefacto** para el **FrontEnd**, para eso usaremos el siguiente comando:
 
-> `cd ..`, lo que hará será llevarnos a la carpeta anterior.
+> `npm run build`, lo que hará será crearnos una carpeta llamada **dist** en la cual estará todo el código comprimido y con cosas innecesarias para luego ser enviado a producción.
 
-> ![Foto](https://drive.google.com/uc?id=1zLjEcuUHOmc66k4zESpMhT9319fgKMLX)
+> ![Foto](https://drive.google.com/uc?id=1xVKtcYpsH8Ip7eIUT3Hxh72D8ezwcFdo) 
 
-6. Cuando ya estemos ahí, escribiremos el siguiente comando:
+> Para poder asegurarnos de que la carpeta se creó correctamente podemos listar los elementos de la carpeta, escribiendo el siguiente comando:
 
-> `npm i express-generator`, lo que hará será instalar una nueva dependencia que nos servirá para poder crear un **Artefacto** del proyecto.
+> `dir`, lo que hará es listar todo lo que tengamos en esa carpeta.
 
-> ![Foto](https://drive.google.com/uc?id=12yEPcCgXoksHZMKG3OyPBuXl69JNzHPW)
+> ![Foto](https://drive.google.com/uc?id=1KAMIOV1j9QTnBmvJw85gonJEnW1jftGl) 
 
-> Cuando ya tengas instalado el **express-generatos**, seguiremos con los demás pasos.
-
-7. Ahora, en la terminal escribes lo siguiente `express Build --view pug`, lo que hará será crear un artefacto de todo el proyecto en general.
-
-> ![Foto](https://drive.google.com/uc?id=1902XKkUUNobf4iHjZJ-uqPFJWw1ID1jg)
-
-> Entonces, **Build** es el nombre de la carpeta que se creara y se guardara el código del artefacto del proyecto.
-
-8. Al momento de listar los elementos de la carpeta con el comando `dir` nos mostrará lo siguiente.
-
-> ![Foto](https://drive.google.com/uc?id=11qobOFQbEf-P0EWBldpYlXsFol_2v5mY)
-
-> Nos mostrará la carpeta **Build** que fue creada por el comando que escribimos ahora.
-
-9. Ahora escribimos en la terminal `cd Build`, para entrar a esa carpeta.
-
-> Cuando estemos ahí, escribimos lo siguiente `npm install`, lo que hará será instalar las dependencias.
+> Y efectivamente, ahí estará la carpeta que se creó por haber ejecutado el comando `npm run build`
 
 **Listo hemos llegado a final del tutorial, Muchas gracias**
