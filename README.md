@@ -169,8 +169,6 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 
 > Están señalados, la carpeta **Documentos** y la carpeta **Clon** que es la carpeta donde guardaremos el código.
 
-> Repetimos este proceso otra vez, para poder tener dos terminales abiertas, más adelante usaremos la otra.
-
 3. Lo siguiente será copiar la *URL* del **Repositorio** que será clonado.
 
 > Cuando este ya en el **repositorio** harás lo siguiente.
@@ -231,8 +229,6 @@ Vamos a verificar si **Git** se encuentra instalado en tú máquina al igual que
 <h2 id="dependencias">Instalar las dependencias del proyecto y la ejecución del proyecto</h2>
 <a href="#inicio">Inicio</a>
 
-En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd** y la otra para el **FrontEnd**.
-
 > Ahora lo que haremos será entrar a la carpeta donde se encuentra todo el código fuente.
 
 1. Lo que haremos será ejecutar el comando `cd code` lo cual te llevara a la carpeta donde se encuentra todo el código fuente del programa.
@@ -245,23 +241,46 @@ En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd**
 
 > ![Foto](https://drive.google.com/uc?id=1Scnc0tYwX2t5FJDJSPq0InVpuRpRKBSN)
 
-3. Ahora, nos pasamos a la otra terminar y ejecutamos el siguiente comando.
-
-> Antes de pasarnos escribimos el siguiente comando: `cd gestion-de-la-configuracion/code`
-
-> ![Foto](https://drive.google.com/uc?id=1etyRylaumy2sNTVBzM3ybeCoJbk-uQWp)
-
-> Ahora si podemos seguir.
+3. Ahora ejecutaremos el siguiente código para poder ir a la otra carpeta.
 
 > `cd client` que nos llevara hasta la carpeta donde está el código fuente del **FrontEnd**.
 
 > ![Foto](https://drive.google.com/uc?id=1eJeV85aBnnNbxUg191ZTHj8mkiwQemp5)
 
-5. Cuando ya estés ahí, lo siguiente será ejecutar este comando en la terminal.
+4. Cuando ya estés ahí, lo siguiente será ejecutar este comando en la terminal.
 
 > `npm install` o `npm i` Lo que hará este comando será buscar el archivo **package.json** a instalar todas las dependencias que aparezcan es ese archivo y si ya tienes algunas solo las actualizara si es necesario.
 
 > ![Foto](https://drive.google.com/uc?id=1pdnvBaMNe9CstdF0do9hAZId_Y6dFJt0)
 
+5. Cuando ya hayas instalado las **Dependencias en las dos rutas**, escribimos el siguiente comando:
 
-> Entonces puedes **registrarte** e **iniciar sesión** y ya con eso puedes disfrutar de nuestra **Calculadora**.
+> `cd ..`, lo que hará será llevarnos a la carpeta anterior.
+
+> ![Foto](https://drive.google.com/uc?id=1zLjEcuUHOmc66k4zESpMhT9319fgKMLX)
+
+6. Cuando ya estemos ahí, escribiremos el siguiente comando:
+
+> `npm i express-generator`, lo que hará será instalar una nueva dependencia que nos servirá para poder crear un **Artefacto** del proyecto.
+
+> ![Foto](https://drive.google.com/uc?id=12yEPcCgXoksHZMKG3OyPBuXl69JNzHPW)
+
+> Cuando ya tengas instalado el **express-generatos**, seguiremos con los demás pasos.
+
+7. Ahora, en la terminal escribes lo siguiente `express Build --view pug`, lo que hará será crear un artefacto de todo el proyecto en general.
+
+> ![Foto](https://drive.google.com/uc?id=1902XKkUUNobf4iHjZJ-uqPFJWw1ID1jg)
+
+> Entonces, **Build** es el nombre de la carpeta que se creara y se guardara el código del artefacto del proyecto.
+
+8. Al momento de listar los elementos de la carpeta con el comando `dir` nos mostrará lo siguiente.
+
+> ![Foto](https://drive.google.com/uc?id=11qobOFQbEf-P0EWBldpYlXsFol_2v5mY)
+
+> Nos mostrará la carpeta **Build** que fue creada por el comando que escribimos ahora.
+
+9. Ahora escribimos en la terminal `cd Build`, para entrar a esa carpeta.
+
+> Cuando estemos ahí, escribimos lo siguiente `npm install`, lo que hará será instalar las dependencias.
+
+**Listo hemos llegado a final del tutorial, Muchas gracias**
