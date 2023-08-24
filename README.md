@@ -245,15 +245,7 @@ En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd**
 
 > ![Foto](https://drive.google.com/uc?id=1Scnc0tYwX2t5FJDJSPq0InVpuRpRKBSN)
 
-3. Para ahorrar unos pasos, lo que haremos será escribir el siguiente comando `npm run dev`, lo que hará será correr nuestro servidor **BackEnd**.
-
-> ![Foto](https://drive.google.com/uc?id=1GYx6hwo1YRaJ7p77zTqXAKYekhjJUuPV)
-
-> Y quedaría así: 
-
-> ![Foto](https://drive.google.com/uc?id=1wUm2wuU75hvQX1mqIfXImIYie1nfz5dg)
-
-4. Ahora, nos pasamos a la otra terminar y ejecutamos el siguiente comando.
+3. Ahora, nos pasamos a la otra terminar y ejecutamos el siguiente comando.
 
 > Antes de pasarnos escribimos el siguiente comando: `cd gestion-de-la-configuracion/code`
 
@@ -271,18 +263,5 @@ En estos pasos es donde vamos a usar las dos terminales, una para el **BackEnd**
 
 > ![Foto](https://drive.google.com/uc?id=1pdnvBaMNe9CstdF0do9hAZId_Y6dFJt0)
 
-5. Ahora, ejecutamos el siguiente comando `npm run dev`, pero este va en la carpeta **client**, a la cual acabamos de acceder.
-
-> ![Foto](https://drive.google.com/uc?id=13KkoohwbH_7iKWO2a9kzw2ggbi2eazWR)
-
-6. Ahora cuando ya tengas ejecutado el **BackEnd** y el **FrontEnd** ejecutándose.
-
-> Darás al botón **Ctrl** más **clic izquierdo** sobre este enlace que está siendo señalado.
-
-> **Nota:** No traduccir la pagína a español, dejarla en ingles, Por favor.
-
-> ![Foto](https://drive.google.com/uc?id=15wDfQRzlb6zsfLrVmz4AqpxUafdUvo2P)
-
-> Y ese enlace te mandará a la **Página** de la **Calculadora**.
 
 > Entonces puedes **registrarte** e **iniciar sesión** y ya con eso puedes disfrutar de nuestra **Calculadora**.
