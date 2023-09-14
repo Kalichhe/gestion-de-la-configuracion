@@ -2,6 +2,7 @@ import { useForm } from "react-hook-form";
 import { useAuth } from "../context/AuthContext";
 import { useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
+import { Button } from "react-bootstrap"
 import Form from "react-bootstrap/Form";
 
 import "../style/Register.css";
@@ -32,31 +33,34 @@ function RegisterPage() {
         <Form.Group className="mb-3" controlId="formsBasicEmail">
           <Form.Label>Username</Form.Label>
           <Form.Control
+            className="username"
             type="text"
             {...register("username", { required: true })}
-            placeholder="Enter sername"
-          />
+            placeholder="Enter Username"
+            />
         </Form.Group>
-        {errors.username && <p>Username is required</p>}
+        {errors.username && <p className="requiered">Username is required</p>}
         <Form.Group className="mb-3" controlId="formsBasicEmail">
           <Form.Label>Email address</Form.Label>
           <Form.Control
+            className="email"
             type="email"
             {...register("email", { required: true })}
             placeholder="Enter email"
-          />
+            />
         </Form.Group>
-        {errors.email && <p>Email is required</p>}
+        {errors.email && <p className="required">Email is required</p>}
         <Form.Group className="mb-3" controlId="formBasicPassword">
           <Form.Label>Password</Form.Label>
           <Form.Control
+            className="password"
             type="password"
             {...register("password", { required: true })}
             placeholder="Enter Password"
           />
         </Form.Group>
-        {errors.password && <p>Password is required</p>}
-        <button type="submit">Login</button>
+        {errors.password && <p className="required">Password is required</p>}
+        <Button type="submit" variant="success" className="buttonRegister">Register</Button>
       </Form>
       <p>
         Already have an account? <Link to="/login">Sign in</Link>

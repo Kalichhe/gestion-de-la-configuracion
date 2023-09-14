@@ -36,13 +36,13 @@ function LoginPage() {
         <Form.Group className="mb-3" controlId="formsBasicEmail">
           <Form.Label>Email address</Form.Label>
           <Form.Control
-            className="email"
+            className="emailLogin"
             type="email"
             {...register("email", { required: true })}
             placeholder="Enter email"
           />
         </Form.Group>
-        {errors.email && <p>Email is required</p>}
+        {errors.email && <p className="required">Email is required</p>}
         <Form.Group className="mb-3" controlId="formBasicPassword">
           <Form.Label>Password</Form.Label>
           <Form.Control
@@ -52,7 +52,7 @@ function LoginPage() {
             placeholder="Password"
           />
         </Form.Group>
-        {errors.password && <p>Password is required</p>}
+        {errors.password && <p className="required">Password is required</p>}
         <Button type="submit" className="buttonLogin">Login</Button>
       </Form>
 

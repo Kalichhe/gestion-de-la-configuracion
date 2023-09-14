@@ -18,9 +18,10 @@ function App() {
           <Route path="/" element={<h1 className="h1HomePage">Home page</h1>} />
           <Route path="/login" element={<LoginPage />} />
           <Route path="/register" element={<RegisterPage />} />
+          <Route path="calculator" element={<Calculator />} />
 
           <Route element={<ProtectedRoute />}>
-            <Route path="/calculator" element={<Calculator />} />
+            {/* <Route path="/calculator" element={<Calculator />} /> */}
           </Route>
         </Routes>
       </BrowserRouter>
